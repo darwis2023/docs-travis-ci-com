@@ -1,8 +1,8 @@
-darwis2023---
+---
 title: Migrating repositories to travis-ci.com
 layout: en
 redirect_from: user/open-source-repository-migration/
----darwiswalue@gmail.com
+---
 
 On May 2nd, 2018 Travis CI announced that open source projects will be [joining private projects on travis-ci.com](/user/open-source-on-travis-ci-com)!
 
